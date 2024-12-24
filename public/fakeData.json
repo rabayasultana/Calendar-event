@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "date": "2024-12-01",
+      "title": "Christmas Celebration",
+      "details": "Family gathering and gift exchange at home.",
+      "location": "123 Maple Street, Hometown",
+      "startTime": "18:00",
+      "endTime": "22:00",
+      "category": "Holiday",
+      "priority": "High"
+    },
+    {
+      "id": 2,
+      "date": "2024-12-01",
+      "title": "New Year's Eve Party",
+      "details": "Countdown party with friends.",
+      "location": "City Square, Downtown",
+      "startTime": "20:00",
+      "endTime": "01:00",
+      "category": "Celebration",
+      "priority": "Medium"
+    },
+    {
+      "id": 3,
+      "date": "2024-12-28",
+      "title": "Project Submission",
+      "details": "Submit the final report for React.js internship project.",
+      "location": "Online Submission",
+      "startTime": "09:00",
+      "endTime": "17:00",
+      "category": "Work",
+      "priority": "High"
+    },
+    {
+      "id": 4,
+      "date": "2024-12-29",
+      "title": "Dentist Appointment",
+      "details": "Routine dental check-up.",
+      "location": "Smile Dental Clinic, 456 Elm Street",
+      "startTime": "10:30",
+      "endTime": "11:15",
+      "category": "Health",
+      "priority": "Low"
+    },
+    {
+      "id": 5,
+      "date": "2025-01-05",
+      "title": "Team Meeting",
+      "details": "Discuss goals and milestones for Q1.",
+      "location": "Office Conference Room A",
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "category": "Work",
+      "priority": "High"
+    },
+    {
+      "id": 6,
+      "date": "2025-01-10",
+      "title": "Yoga Class",
+      "details": "Attend morning yoga session for relaxation.",
+      "location": "Lotus Wellness Center",
+      "startTime": "07:00",
+      "endTime": "08:00",
+      "category": "Fitness",
+      "priority": "Medium"
+    },
+    {
+      "id": 7,
+      "date": "2025-01-15",
+      "title": "Friend's Birthday Party",
+      "details": "Surprise party for Emma.",
+      "location": "Emma's House, 789 Pine Lane",
+      "startTime": "19:00",
+      "endTime": "23:00",
+      "category": "Social",
+      "priority": "Low"
+    }
+  ]
+  
